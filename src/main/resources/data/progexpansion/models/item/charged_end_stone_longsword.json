@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "progexpansionarmory:items/charged_end_stone_longsword"
+  }
+}

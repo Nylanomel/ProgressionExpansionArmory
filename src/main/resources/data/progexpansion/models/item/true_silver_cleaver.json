@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "progexpansionarmory:items/true_silver_cleaver"
+  }
+}

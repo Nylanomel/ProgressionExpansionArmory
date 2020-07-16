@@ -1,15 +1,10 @@
-modLoader="javafml" #mandatory
-loaderVersion="[31,)" #mandatory This is typically bumped every Minecraft version by Forge. See our download page for lists of versions.
-issueTrackerURL="http://my.issue.tracker/" #optional
+modLoader="javafml"
+loaderVersion="[31,)"
 [[mods]] #mandatory
-modId="progexpansionarmory" #mandatory
-version="1.16.1-0.1.0" #mandatory
-displayName="Progression Expansion: Armory" #mandatory
-updateJSONURL="http://myurl.me/" #optional
-displayURL="http://example.com/" #optional
-logoFile="examplemod.png" #optional
-credits="" #optional
-authors="Nylanomel, Pylerrr" #optional
+modId="progexpansionarmory"
+version="1.16.1-0.1.0"
+displayName="Progression Expansion: Armory"
+authors="Nylanomel, Pylerrr"
 description='''
 An addon for Progression Expansion
 '''

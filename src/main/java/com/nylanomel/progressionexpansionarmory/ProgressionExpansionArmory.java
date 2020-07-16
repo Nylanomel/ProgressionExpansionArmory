@@ -11,7 +11,6 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import com.nylanomel.progressionexpansionarmory.util.RegistryHandler;
 
-// The value here should match an entry in the META-INF/mods.toml file
 @Mod("progexpansionarmory")
 public class ProgressionExpansionArmory {
     private static final Logger LOGGER = LogManager.getLogger();
@@ -35,7 +34,7 @@ public class ProgressionExpansionArmory {
     public static final ItemGroup TAB = new ItemGroup("progExpansionArmory") {
         @Override
         public ItemStack createIcon() {
-            return new ItemStack(RegistryHandler.PLACEHOLDER_ITEM.get());
+            return new ItemStack(RegistryHandler.COPPER_SHIELD.get());
         }
     };
 }

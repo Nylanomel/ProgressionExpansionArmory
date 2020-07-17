@@ -1,6 +1,6 @@
 {
 
-  "itemGroup.progexpansionarmory": "Progression Expansion: Armory",
+  "itemGroup.progExpansionArmory": "Progression Expansion: Armory",
 
   "item.progexpansionarmory.copper_shield": "Copper Shield",
   "item.progexpansionarmory.silver_shield": "Silver Shield",
@@ -26,7 +26,7 @@
   "item.progexpansionarmory.pure_purpur_cleaver": "Pure Purpur Cleaver",
   "item.progexpansionarmory.adamantite_cleaver": "Adamantite Cleaver",
 
-  "item.progexpansionarmory,copper_longsword": "Copper Longsword",
+  "item.progexpansionarmory.copper_longsword": "Copper Longsword",
   "item.progexpansionarmory.silver_longsword": "Silver Longsword",
   "item.progexpansionarmory.steel_longsword": "Steel Longsword",
   "item.progexpansionarmory.cobalt_longsword": "Cobalt Longsword",
@@ -52,7 +52,8 @@
 
   "item.progexpansionarmory.copper_hammer": "Copper Hammer",
   "item.progexpansionarmory.silver_hammer": "Silver Hammer",
-  "item.progexpansionarmory.steel_hammer": "Cobalt Hammer",
+  "item.progexpansionarmory.steel_hammer": "Steel Hammer",
+  "item.progexpansionarmory.cobalt_hammer": "Cobalt Hammer",
   "item.progexpansionarmory.mythril_hammer": "Mythril Hammer",
   "item.progexpansionarmory.true_silver_hammer": "True Silver Hammer",
   "item.progexpansionarmory.draconic_steel_hammer": "Draconic Steel Hammer",
@@ -65,6 +66,7 @@
   "item.progexpansionarmory.silver_rod": "Silver Rod",
   "item.progexpansionarmory.steel_rod": "Cobalt Hammer",
   "item.progexpansionarmory.mythril_rod": "Mythril Rod",
+  "item.progexpansionarmory.cobalt_rod": "Cobalt Rod",
   "item.progexpansionarmory.true_silver_rod": "True Silver Rod",
   "item.progexpansionarmory.draconic_steel_rod": "Draconic Steel Rod",
   "item.progexpansionarmory.endril_rod": "Endril Rod",

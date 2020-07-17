@@ -89,7 +89,7 @@ public class RegistryHandler {
         public static final RegistryObject<Item> TRUE_SILVER_ROD = ITEMS.register("true_silver_rod", ItemBase::new);
         public static final RegistryObject<Item> DRACONIC_STEEL_ROD = ITEMS.register("draconic_steel_rod", ItemBase::new);
         public static final RegistryObject<Item> ENDRIL_ROD = ITEMS.register("endril_rod", ItemBase::new);
-        public static final RegistryObject<Item> CHARGED_END_STONE_ROD = ITEMS.register("charged_end_rod", ItemBase::new);
+        public static final RegistryObject<Item> CHARGED_END_STONE_ROD = ITEMS.register("charged_end_stone_rod", ItemBase::new);
         public static final RegistryObject<Item> PURE_PURPUR_ROD = ITEMS.register("pure_purpur_rod", ItemBase::new);
         public static final RegistryObject<Item> ADAMANTITE_ROD = ITEMS.register("adamantite_rod", ItemBase::new);
 

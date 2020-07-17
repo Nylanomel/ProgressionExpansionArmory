@@ -23,6 +23,6 @@ An addon for Progression Expansion
 [[dependencies.progexpansionarmory]]
     modId="progexpansion"
     mandatory=true
-    versionRange="[1.0.0,)"
+    versionRange="[0.3.0,)"
     ordering="NONE"
     side="BOTH"

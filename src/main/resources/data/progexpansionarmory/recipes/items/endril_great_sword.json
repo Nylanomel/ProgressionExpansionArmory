@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  x",
+    "xxx",
+    "y  "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:ingots/endril"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:endril_great_sword",
+    "count": 1
+  }
+}

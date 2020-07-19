@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "  x",
+    " x ",
+    "y  "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:ingots/true_silver"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:true_silver_longsword",
+    "count": 1
+  }
+}

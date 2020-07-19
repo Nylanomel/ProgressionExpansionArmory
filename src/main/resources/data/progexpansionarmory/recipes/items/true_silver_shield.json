@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xyx",
+    "xxx",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "minecraft:logs"
+    },
+    "y":
+    {
+      "tag": "forge:ingots/true_silver"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:true_silver_shield",
+    "count": 1
+  }
+}

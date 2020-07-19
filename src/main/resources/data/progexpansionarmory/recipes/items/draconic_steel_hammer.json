@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xyx",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:ingots/draconic_steel"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:draconic_steel_hammer",
+    "count": 1
+  }
+}

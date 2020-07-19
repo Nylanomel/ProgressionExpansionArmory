@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xyx",
+    "xxx",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "minecraft:planks"
+    },
+    "y":
+    {
+      "item": "forge:ingots/copper"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:copper_shield",
+    "count": 1
+  }
+}

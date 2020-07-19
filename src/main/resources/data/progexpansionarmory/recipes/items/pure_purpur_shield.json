@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xyx",
+    "xxx",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "minecraft:planks"
+    },
+    "y":
+    {
+      "tag": "forge:ingots/pure_purpur"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:pure_purpur_shield",
+    "count": 1
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xyx",
+    "xxx",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "minecraft:planks"
+    },
+    "y":
+    {
+      "tag": "forge:ingots/draconic_steel"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:draconic_steel_shield",
+    "count": 1
+  }
+}

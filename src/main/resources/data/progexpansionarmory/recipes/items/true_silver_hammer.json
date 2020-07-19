@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xyx",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:ingots/true_silver"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:true_silver_hammer",
+    "count": 1
+  }
+}

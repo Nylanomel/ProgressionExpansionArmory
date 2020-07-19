@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xyx",
+    "xxx",
+    " x "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "minecraft:planks"
+    },
+    "y":
+    {
+      "tag": "forge:ingots/charged_end_stone"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:charged_end_stone_shield",
+    "count": 1
+  }
+}

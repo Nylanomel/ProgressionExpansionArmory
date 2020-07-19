@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern":
+  [
+    "xxx",
+    "xyx",
+    " y "
+  ],
+  "key":
+  {
+    "x":
+    {
+      "tag": "forge:ingots/adamantite"
+    },
+    "y":
+    {
+      "item": "minecraft:stick"
+    }
+  },
+  "result":
+  {
+    "item": "progexpansionarmory:adamantite_hammer",
+    "count": 1
+  }
+}

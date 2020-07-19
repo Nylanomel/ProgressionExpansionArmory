@@ -4,6 +4,7 @@ import com.nylanomel.progressionexpansionarmory.ProgressionExpansionArmory;
 import com.nylanomel.progressionexpansionarmory.items.ItemBase;
 import net.minecraft.block.Block;
 import net.minecraft.item.Item;
+import net.minecraft.item.PickaxeItem;
 import net.minecraftforge.fml.RegistryObject;
 import net.minecraftforge.fml.javafmlmod.FMLJavaModLoadingContext;
 import net.minecraftforge.registries.DeferredRegister;
@@ -33,17 +34,17 @@ public class RegistryHandler {
         public static final RegistryObject<Item> PURE_PURPUR_SHIELD = ITEMS.register("pure_purpur_shield", ItemBase::new);
         public static final RegistryObject<Item> ADAMANTITE_SHIELD = ITEMS.register("adamantite_shield", ItemBase::new);
         // CLEAVER
-        public static final RegistryObject<Item> COPPER_CLEAVER = ITEMS.register("copper_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> SILVER_CLEAVER = ITEMS.register("silver_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> STEEL_CLEAVER = ITEMS.register("steel_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> COBALT_CLEAVER = ITEMS.register("cobalt_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> MYTHRIL_CLEAVER = ITEMS.register("mythril_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> TRUE_SILVER_CLEAVER = ITEMS.register("true_silver_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> DRACONIC_STEEL_CLEAVER = ITEMS.register("draconic_steel_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> ENDRIL_CLEAVER = ITEMS.register("endril_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> CHARGED_END_STONE_CLEAVER = ITEMS.register("charged_end_stone_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> PURE_PURPUR_CLEAVER = ITEMS.register("pure_purpur_cleaver", ItemBase::new);
-        public static final RegistryObject<Item> ADAMANTITE_CLEAVER = ITEMS.register("adamantite_cleaver", ItemBase::new);
+        public static final RegistryObject<Item> COPPER_GREAT_SWORD = ITEMS.register("copper_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> SILVER_GREAT_SWORD = ITEMS.register("silver_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> STEEL_GREAT_SWORD = ITEMS.register("steel_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> COBALT_GREAT_SWORD = ITEMS.register("cobalt_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> MYTHRIL_GREAT_SWORD = ITEMS.register("mythril_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> TRUE_SILVER_GREAT_SWORD = ITEMS.register("true_silver_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> DRACONIC_STEEL_GREAT_SWORD = ITEMS.register("draconic_steel_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> ENDRIL_GREAT_SWORD = ITEMS.register("endril_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> CHARGED_END_STONE_GREAT_SWORD = ITEMS.register("charged_end_stone_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> PURE_PURPUR_GREAT_SWORD = ITEMS.register("pure_purpur_great_sword", ItemBase::new);
+        public static final RegistryObject<Item> ADAMANTITE_GREAT_SWORD = ITEMS.register("adamantite_great_sword", ItemBase::new);
         // LONGSWORD
         public static final RegistryObject<Item> COPPER_LONGSWORD = ITEMS.register("copper_longsword", ItemBase::new);
         public static final RegistryObject<Item> SILVER_LONGSWORD = ITEMS.register("silver_longsword", ItemBase::new);
@@ -80,20 +81,6 @@ public class RegistryHandler {
         public static final RegistryObject<Item> CHARGED_END_STONE_HAMMER = ITEMS.register("charged_end_stone_hammer", ItemBase::new);
         public static final RegistryObject<Item> PURE_PURPUR_HAMMER = ITEMS.register("pure_purpur_hammer", ItemBase::new);
         public static final RegistryObject<Item> ADAMANTITE_HAMMER = ITEMS.register("adamantite_hammer", ItemBase::new);
-        // ROD
-        public static final RegistryObject<Item> COPPER_ROD = ITEMS.register("copper_rod", ItemBase::new);
-        public static final RegistryObject<Item> SILVER_ROD = ITEMS.register("silver_rod", ItemBase::new);
-        public static final RegistryObject<Item> STEEL_ROD = ITEMS.register("steel_rod", ItemBase::new);
-        public static final RegistryObject<Item> COBALT_ROD = ITEMS.register("cobalt_rod", ItemBase::new);
-        public static final RegistryObject<Item> MYTHRIL_ROD = ITEMS.register("mythril_rod", ItemBase::new);
-        public static final RegistryObject<Item> TRUE_SILVER_ROD = ITEMS.register("true_silver_rod", ItemBase::new);
-        public static final RegistryObject<Item> DRACONIC_STEEL_ROD = ITEMS.register("draconic_steel_rod", ItemBase::new);
-        public static final RegistryObject<Item> ENDRIL_ROD = ITEMS.register("endril_rod", ItemBase::new);
-        public static final RegistryObject<Item> CHARGED_END_STONE_ROD = ITEMS.register("charged_end_stone_rod", ItemBase::new);
-        public static final RegistryObject<Item> PURE_PURPUR_ROD = ITEMS.register("pure_purpur_rod", ItemBase::new);
-        public static final RegistryObject<Item> ADAMANTITE_ROD = ITEMS.register("adamantite_rod", ItemBase::new);
-
-
     // BLOCKS
 
 }

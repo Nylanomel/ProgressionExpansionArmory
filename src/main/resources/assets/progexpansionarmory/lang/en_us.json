@@ -14,17 +14,17 @@
   "item.progexpansionarmory.pure_purpur_shield": "Pure Purpur Shield",
   "item.progexpansionarmory.adamantite_shield": "Adamantite Shield",
 
-  "item.progexpansionarmory.copper_cleaver": "Copper Cleaver",
-  "item.progexpansionarmory.silver_cleaver": "Silver Cleaver",
-  "item.progexpansionarmory.steel_cleaver": "Steel Cleaver",
-  "item.progexpansionarmory.cobalt_cleaver": "Cobalt Cleaver",
-  "item.progexpansionarmory.mythril_cleaver": "Mythril Cleaver",
-  "item.progexpansionarmory.true_silver_cleaver": "True Silver Cleaver",
-  "item.progexpansionarmory.draconic_steel_cleaver": "Draconic Steel Cleaver",
-  "item.progexpansionarmory.endril_cleaver": "Endril Cleaver",
-  "item.progexpansionarmory.charged_end_stone_cleaver": "Charged End Stone Cleaver",
-  "item.progexpansionarmory.pure_purpur_cleaver": "Pure Purpur Cleaver",
-  "item.progexpansionarmory.adamantite_cleaver": "Adamantite Cleaver",
+  "item.progexpansionarmory.copper_great_sword": "Copper Great Sword",
+  "item.progexpansionarmory.silver_great_sword": "Silver Great Sword",
+  "item.progexpansionarmory.steel_great_sword": "Steel Great Sword",
+  "item.progexpansionarmory.cobalt_great_sword": "Cobalt Great Sword",
+  "item.progexpansionarmory.mythril_great_sword": "Mythril Great Sword",
+  "item.progexpansionarmory.true_silver_great_sword": "True Silver Great Sword",
+  "item.progexpansionarmory.draconic_steel_great_sword": "Draconic Steel Great Sword",
+  "item.progexpansionarmory.endril_great_sword": "Endril Great Sword",
+  "item.progexpansionarmory.charged_end_stone_great_sword": "Charged End Stone Great Sword",
+  "item.progexpansionarmory.pure_purpur_great_sword": "Pure Purpur Great Sword",
+  "item.progexpansionarmory.adamantite_great_sword": "Adamantite Great Sword",
 
   "item.progexpansionarmory.copper_longsword": "Copper Longsword",
   "item.progexpansionarmory.silver_longsword": "Silver Longsword",
@@ -60,18 +60,5 @@
   "item.progexpansionarmory.endril_hammer": "Endril Hammer",
   "item.progexpansionarmory.charged_end_stone_hammer": "Charged End Stone Hammer",
   "item.progexpansionarmory.pure_purpur_hammer": "Pure Purpur Hammer",
-  "item.progexpansionarmory.adamantite_hammer": "Adamantite Hammer",
-
-  "item.progexpansionarmory.copper_rod": "Copper Rod",
-  "item.progexpansionarmory.silver_rod": "Silver Rod",
-  "item.progexpansionarmory.steel_rod": "Cobalt Hammer",
-  "item.progexpansionarmory.mythril_rod": "Mythril Rod",
-  "item.progexpansionarmory.cobalt_rod": "Cobalt Rod",
-  "item.progexpansionarmory.true_silver_rod": "True Silver Rod",
-  "item.progexpansionarmory.draconic_steel_rod": "Draconic Steel Rod",
-  "item.progexpansionarmory.endril_rod": "Endril Rod",
-  "item.progexpansionarmory.charged_end_stone_rod": "Charged End Stone Rod",
-  "item.progexpansionarmory.pure_purpur_rod": "Pure Purpur Rod",
-  "item.progexpansionarmory.adamantite_rod": "Adamantite Rod"
-
+  "item.progexpansionarmory.adamantite_hammer": "Adamantite Hammer"
 }
